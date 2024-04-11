@@ -1,6 +1,7 @@
 package medium;
 
 // Refer this link: https://leetcode.com/problems/implement-trie-prefix-tree/
+// https://leetcode.com/problems/implement-trie-prefix-tree/submissions/1228991881/
 class Node {
 
     boolean isWord;
